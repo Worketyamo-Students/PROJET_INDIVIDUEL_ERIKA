@@ -60,6 +60,10 @@
         font-size: 2rem;
         color: var(--reponse-ordi);
         text-indent: 24px;
+        
+    }
+    input{
+        padding: 0rem 0rem 0rem 4rem;
     }
 
     .input2{
